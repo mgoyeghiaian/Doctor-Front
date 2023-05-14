@@ -1,0 +1,11 @@
+.Text-Head{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.645);
+  font-weight: bolder;
+  padding: 25px;
+  border: solid 1px #000;
+  border-radius: 35px;
+}

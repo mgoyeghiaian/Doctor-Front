@@ -1,0 +1,5 @@
+.Swiper_img img{
+  height: 100vh !important;
+  object-fit:fill;
+  background-color: rgba(142, 141, 141, 0.697);
+}
